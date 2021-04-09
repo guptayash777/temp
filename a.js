@@ -9,3 +9,6 @@ console.log("yoyo");
 // git push --set-upstream origin master : push the file on github
 // git checkout -b branch_name: changes the branch on which we are working
 // git branch: show the branch on which we are working 
+// git push --set-upstream origin feature1 : to push the branches in github
+// git merge branch_name : merge the given branch to the master branch
+//git branch -d branch_name : delete branch
