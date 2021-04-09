@@ -11,4 +11,5 @@ console.log("yoyo");
 // git branch: show the branch on which we are working 
 // git push --set-upstream origin feature1 : to push the branches in github
 // git merge branch_name : merge the given branch to the master branch
-//git branch -d branch_name : delete branch
+// git branch -d branch_name : delete branch locally
+// git push origin --delete branch_name : delete branch globally & push the changes after deletion
