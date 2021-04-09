@@ -1,5 +1,7 @@
 console.log("hello2");
 
+console.log("hello4");
+console.log("yoyo");
 // git version: to see the version
 // git init: to initialise git in folder
 // git remote add origin (url).git : to link local folder with git repository
